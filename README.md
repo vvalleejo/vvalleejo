@@ -1,12 +1,12 @@
-###👋 Hi there I'm Víctor Vallejo
-I'm a spanish 🇪🇸 BEng Data Engineering & Systems Student. I have a huge interest and passion for AI, ML, DL, blockchain and finance. In my free time I enjoy:
+#👋 Hi there I'm Víctor Vallejo
+##I'm a spanish 🇪🇸 BEng Data Engineering & Systems Student. I have a huge interest and passion for AI, ML, DL, blockchain and finance. In my free time I enjoy:
 
-🥊🤼‍ Training and watching MMA & Boxing
-🏋 Lifting weights.
-📚 Reading & Online Courses.
-📬 Contact:
-E-mail
-LinkedIn
+###🥊🤼‍ Training and watching MMA & Boxing.
+###🏋 Lifting weights.
+###📚 Reading & Online Courses.
+###📬 Contact:
+###E-mail
+###LinkedIn
 
 
 <!--
