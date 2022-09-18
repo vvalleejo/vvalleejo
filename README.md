@@ -1,4 +1,13 @@
-### Hi there 👋
+###👋 Hi there I'm Víctor Vallejo
+I'm a spanish 🇪🇸 BEng Data Engineering & Systems Student. I have a huge interest and passion for AI, ML, DL, blockchain and finance. In my free time I enjoy:
+
+🥊🤼‍ Training and watching MMA & Boxing
+🏋 Lifting weights.
+📚 Reading & Online Courses.
+📬 Contact:
+E-mail
+LinkedIn
+
 
 <!--
 **vvalleejo/vvalleejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
