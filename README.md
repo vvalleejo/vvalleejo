@@ -1,5 +1,5 @@
 <br><h2>👋 Hi there I'm Víctor Vallejo</h2></br>
-<br>I'm a spanish 🇪🇸 BEng Data Engineering & Systems Student. I have a strong academic background in Machine Learning, AI and mathematics. In addition I have a huge passion for Investments and Quantitative Finance, and my professional goal is to apply my technical model to the finance and banking field. In my free time I enjoy:</br>
+<br>I'm a spanish 🇪🇸 BEng Data Engineering & Systems las year Student. I have a strong academic background in Machine Learning, AI and mathematics. In addition I have a huge passion for Investments and Quantitative Finance, and my professional goal is to apply my technical model to the finance and banking field. In my free time I enjoy:</br>
 
 <li>🥊🤼‍ Training and watching MMA & Boxing.</li>
 <li>🏋 Lifting weights.</li>
