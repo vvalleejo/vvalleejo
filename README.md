@@ -1,5 +1,6 @@
 <br><h2>👋 Hi there I'm Víctor Vallejo</h2></br>
 <br>I'm a spanish 🇪🇸 last year student of the 1st promotion of BEng Data Engineering & Systems at UPM. I have a strong academic background in Machine Learning, AI and mathematics. In addition, I have a huge passion for Investments and Quantitative Finance, and my professional goal is to apply my technical model in the quantitative trading/quantitative finance and banking field 📈📈.
+
 🌱 I’m currently learning through courses, seminars, articles and books about different topics like mathematical models applied in quant finance, complex finance terms as advanced derivaties, portfolio quantitative optimization, entrepreneurship and personal development...
 
 In my free time I enjoy:</br>
