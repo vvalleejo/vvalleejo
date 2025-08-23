@@ -1,30 +1,47 @@
-<br><h2>👋 Hi there I'm Víctor Vallejo</h2></br>
-<br>I'm a spanish 🇪🇸 last year student of the 1st promotion of BEng Data Engineering & Systems at UPM. I have a strong academic background in Machine Learning, AI and mathematics. In addition, I have a huge passion for Investments and Quantitative Finance, and my professional goal is to apply my technical model in the quantitative trading/quantitative finance and banking field 📈📈.
+<h2>👋 Hi there, I'm Víctor Vallejo</h2>
+<p>🚀 AI Consultant | Data & ML Engineer | Financial Engineer</p>
 
-🌱 I’m currently learning through courses, seminars, articles and books about different topics like mathematical models applied in quant finance, complex finance terms as advanced derivaties, portfolio quantitative optimization, entrepreneurship and personal development...
+<p>
+  <a href="https://www.linkedin.com/in/victor-vallejo-carmona"><img src="https://img.shields.io/badge/LinkedIn-Víctor%20Vallejo-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:vvalleejo@gmail.com"><img src="https://img.shields.io/badge/Email-vvalleejo@gmail.com-red?style=flat-square&logo=gmail" alt="Email"></a>
 
-In my free time I enjoy:</br>
-<li>🥊🤼‍ Training and watching MMA & Boxing.</li>
-<li>🏋 Lifting weights.</li>
-<li>🌎 To travel and explore new places.</li>
-<li>🎧 Listening to podcast about new topics that I want to learn about.</li>
+</p>
 
-<h4>📬 Contact:</h4>
-<li><a href= "mailto:vvalleejo@gmail.com">E-mail</a></li>
-<li><a href= "https://www.linkedin.com/in/victor-vallejo-carmona">LinkedIn</a></li>
+---
 
+### 🌱 About Me
+I'm a Spanish 🇪🇸 AI professional with expertise in **applied artificial intelligence, machine learning, and business strategy**. I help organizations identify opportunities to leverage AI in processes, from **automation and predictive analytics** to **intelligent assistants** and **RAG-powered solutions**.
 
-<!--
-**vvalleejo/vvalleejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Focus Areas:**
+- 💡 AI-Powered Tools & Multi Agents and Advanced ML Models
+- 🧠 RAG & Vector Databases (Qdrant, Elasticsearch)  
+- ⚙️ Data Pipelines & Automation  
+- 🐍 Python, Docker, APIs, Tensorflow
+- 📊 Strategic AI Consulting  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Current Project
+- **AI Strategy Consulting:** Identifying automation and AI adoption opportunities for clients  
+
+---
+
+### 💻 Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Qdrant](https://img.shields.io/badge/-Qdrant-FF6D00?style=flat-square&logo=qdrant&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+### 🌍 Outside Work
+- 🥊 MMA & Boxing  
+- 🏋️‍♂️ Weightlifting  
+- 🌎 Traveling & Exploring Cultures  
+- 🎧 Learning via Podcasts & Books  
+
+---
+
+**💼 Currently Exploring:** How AI can transform strategic decision-making in enterprises, combining technical insights with measurable business impact.
