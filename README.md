@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm Víctor Vallejo</h1>
+<h1>Víctor Vallejo</h1>
 <h3>AI & Machine Learning Forward Deployed Engineer (FDE) | Agentic AI & RAG Systems | Quantitative Finance</h3>
 
 <p>
