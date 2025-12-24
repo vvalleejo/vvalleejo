@@ -64,25 +64,27 @@ I enjoy working end-to-end: from problem framing and architecture design to prod
 ## 💻 Tech Stack
 
 **Languages & Frameworks**
-  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://docs.python.org/3/)
+[![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/docs/stable/index.html)
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/learn)
 
 **Generative AI & Data**
 
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square)
-![Qdrant](https://img.shields.io/badge/-Qdrant-FF6D00?style=flat-square&logo=qdrant&logoColor=white)
-![FAISS](https://img.shields.io/badge/-FAISS-0467DF?style=flat-square)
+[![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](https://platform.openai.com/docs)
+[![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square)](https://python.langchain.com/docs/)
+[![LangGraph](https://img.shields.io/badge/-LangGraph-1A1A1A?style=flat-square)](https://langchain-ai.github.io/langgraph/)
+[![Qdrant](https://img.shields.io/badge/-Qdrant-FF6D00?style=flat-square&logo=qdrant&logoColor=white)](https://qdrant.tech/documentation/)
+[![FAISS](https://img.shields.io/badge/-FAISS-0467DF?style=flat-square)](https://faiss.ai/)
 
 **Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)](https://docs.aws.amazon.com/)
+[![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure)](https://learn.microsoft.com/azure/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docs.docker.com/)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/doc)
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.kernel.org/doc/html/latest/)
 
 ---
 
